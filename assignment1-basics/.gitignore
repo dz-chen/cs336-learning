@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# add by cdz: data 目录不加入仓库
+data/
+
+# add by cdz
+tmp/
+
+
 # C extensions
 *.so
 
